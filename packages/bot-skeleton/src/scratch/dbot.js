@@ -275,7 +275,10 @@ class DBot {
         } catch (error) {
             globalObserver.emit('Error', error);
 
-            if (this.interpreter) {
+            if (this.interpreter) {my account 
+                account 
+                0797745867
+                
                 this.stopBot();
             }
         }
